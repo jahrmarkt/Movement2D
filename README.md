@@ -1,7 +1,10 @@
 # Movement2D
 
-This is a demo for 2D Player movement in Unity. The Player-class is in Assets/Scripts/Player.cs.
+This is a demo for 2D Player movement in Unity. You can run, jump grab on a ledge, pull up, let go.
+The Player-class is in Assets/Scripts/Player.cs.
+The executable is in Movement2D/MovementDemo/MovementDemo.exe .
 
+Controls: 
 wasd  - move,
 w     - jumping,
 space - grab a ledge, 
